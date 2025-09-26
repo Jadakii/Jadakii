@@ -4,7 +4,7 @@
 This portfolio showcases my projects, experiences, and accomplishments throughout my career in technology.</p>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-- [C'Groovy](https://github.com/Jadakii/Project-C-Groovy)
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
   
 <h2> 🤳 Connect with me:</h2>
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
