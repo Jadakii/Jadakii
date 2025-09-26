@@ -1,4 +1,7 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Gerrard Jefferson!</h1>
+<p>An Information Systems student at Binus University with interests in Web Development, Web Design, and Web-based application development.
+
+This portfolio showcases my projects, experiences, and accomplishments throughout my career in technology.</p>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
