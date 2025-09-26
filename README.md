@@ -4,6 +4,7 @@
 This portfolio showcases my projects, experiences, and accomplishments throughout my career in technology.</p>
 
 <h2>👨‍💻 Software Development Projects:</h2>
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
   
 <h2> 🤳 Connect with me:</h2>
