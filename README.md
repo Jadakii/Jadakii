@@ -8,6 +8,8 @@ This portfolio showcases my projects, experiences, and accomplishments throughou
 
 - <b>Website Development</b>
   - [C'Groovy](https://github.com/Jadakii/Project-C-Groovy)
+- <b>Application Development</b>
+  - [DvCO](https://github.com/Jadakii/Project-DvCO)
     
 <h2> 🤳 Connect with me:</h2>
 
